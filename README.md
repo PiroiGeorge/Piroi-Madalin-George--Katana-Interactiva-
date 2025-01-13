@@ -212,6 +212,8 @@ The Interactive Katana project successfully integrates hardware and software to 
 
 ## **Media**
 
+![P_20250112_210952](https://github.com/user-attachments/assets/454d3480-31dc-4f79-a922-a1d22cc5393a)
+
 ![P_20250113_212746](https://github.com/user-attachments/assets/80737a1e-3b6e-4a95-8a8d-a1af8922ea95)
 
 ![P_20250113_212646](https://github.com/user-attachments/assets/f3b3021d-bd93-4ff0-9566-167657e64a9c)
