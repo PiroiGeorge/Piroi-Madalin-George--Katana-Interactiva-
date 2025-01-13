@@ -34,6 +34,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 | **9V Battery**         | Powers the entire system via Arduino Nano.                                       |
 | **Power Bank**         | Provides alternative power via USB connection.                                   |
 | **Switch Button**      | Used to control the 9V battery power supply to the Arduino Nano.                 |
+|**9V Battery connector**| Connect teh 9v batteri and the arduino                                           |
 
 ---
 
@@ -41,8 +42,12 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 #### **1. Power Connections**
 
+
 - **9V Battery**:
-  - Positive terminal → - One terminal **Switch Button**  
+  - Connect to → 9V Battery connector
+
+- **9V Battery connector**:
+  - Positive terminal → One terminal **Switch Button**  
   - Negative terminal → **GND** on Arduino Nano.
 
 - **USB Power Bank**:
