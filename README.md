@@ -253,7 +253,7 @@ https://github.com/user-attachments/assets/7cfee3e6-ca1d-4a89-aff6-e57aaff1e89a
 
 - [Arduino Nano Documentation](https://www.arduino.cc/en/Guide/ArduinoNano)
 - [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
-- [MPU-6050 Datasheet](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/)
+- [MPU-6050 Datasheet](https://cdn-reichelt.de/documents/datenblatt/A300/ME024.pdf)
 - [DY-SV5W MP3 Module Documentation](https://grobotronics.com/images/companies/1/datasheets/DY-SV5W%20Voice%20Playback%20ModuleDatasheet.pdf?1559812879320=&srsltid=AfmBOorhiEmqe2ar5Fkf1KsBC55Jhyxj1rFRRIvpkuhsyZrCOwvQKPrH)
 
 
