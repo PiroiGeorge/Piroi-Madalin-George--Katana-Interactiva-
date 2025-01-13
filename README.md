@@ -241,6 +241,7 @@ https://github.com/user-attachments/assets/7cfee3e6-ca1d-4a89-aff6-e57aaff1e89a
 
 ## **Electric  schematics**
 
+![Electric circuit](https://github.com/user-attachments/assets/db44701f-cec6-4cb5-ba8c-f572576dae99)
 
 
 ---
