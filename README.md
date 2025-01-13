@@ -15,6 +15,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 - The **MPU-6050 accelerometer/gyroscope** detects tilt and sharp movements (e.g., slashes) to trigger LED patterns.
 - The **DY-SV5W MP3 player module** plays sound effects synchronized with motion or lighting modes.
 - A **push button** allows switching between modes, such as static lighting, tilt-based effects, or special lighting patterns.
+- A **switch button** allows turning on and off the powers for the 9 V battery
 - The system is powered by a **9V battery** for portability or a USB-connected power bank for extended use.
 
 ---
@@ -32,6 +33,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 | **Push Button**        | User input for switching between modes.                                          |
 | **9V Battery**         | Powers the entire system via Arduino Nano.                                       |
 | **Power Bank**         | Provides alternative power via USB connection.                                   |
+| **Switch Button**      | Used to control the 9V battery power supply to the Arduino Nano.                 |
 
 ---
 
@@ -40,7 +42,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 #### **1. Power Connections**
 
 - **9V Battery**:
-  - Positive terminal → **VIN** pin on Arduino Nano.
+  - Positive terminal → - One terminal **Switch Button**  
   - Negative terminal → **GND** on Arduino Nano.
 
 - **USB Power Bank**:
@@ -77,6 +79,8 @@ The interactive katana uses a combination of hardware components to achieve a re
 - One terminal → **D10** pin on Arduino Nano.
 - Other terminal → **GND**.
 
+#### **6. Swicth Button**
+- One terminal → **VIN** pin on Arduino Nano.
 ---
 
 ### **Bill of Materials (BOM)**
@@ -126,6 +130,10 @@ The interactive katana uses a combination of hardware components to achieve a re
                   |  (Power Source) |        |  (Alt. Power)      |
                   +-----------------+        +-------------------+
                             |                         |
+                     +------v------+                 |
+                     | Switch Button|                 |
+                     +------+-------+                 |
+                            |                         |
                             +-------------------------+
                                       |
                            +----------v----------+
@@ -134,16 +142,16 @@ The interactive katana uses a combination of hardware components to achieve a re
                            +----------+----------+
                                       |
            +--------------------------+--------------------------+
-           |                                                     |
-   +-------v--------+                                   +--------v-------+
-   |  MPU-6050      |                                   | DY-SV5W MP3    |
-   | (Gyro/Accel)   |                                   |   Module       |
-   +----------------+                                   +--------+-------+
-                                                                |
-                                                        +-------v-------+
-                                                        |   Speaker     |
-                                                        | (Sound Output)|
-                                                        +---------------+
+           |                          |                          |
+   +-------v--------+                 |                 +--------v-------+
+   |  MPU-6050      |                 |                 | DY-SV5W MP3    |
+   | (Gyro/Accel)   |                 |                 |   Module       |
+   +----------------+                 |                 +--------+-------+
+                                      |                          |
+                             +--------v---------+        +-------v-------+
+                             |   Push Button    |        |   Speaker     |
+                             | (Mode Control)   |        | (Sound Output)|
+                             +------------------+        +---------------+
 
 ```
 
@@ -248,3 +256,9 @@ https://github.com/user-attachments/assets/7cfee3e6-ca1d-4a89-aff6-e57aaff1e89a
 - [MPU-6050 Datasheet](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/)
 - [DY-SV5W MP3 Module Documentation](https://grobotronics.com/images/companies/1/datasheets/DY-SV5W%20Voice%20Playback%20ModuleDatasheet.pdf?1559812879320=&srsltid=AfmBOorhiEmqe2ar5Fkf1KsBC55Jhyxj1rFRRIvpkuhsyZrCOwvQKPrH)
 
+
+## **Strores**
+
+-[ConexElectrionic](https://www.conexelectronic.ro/)
+-[Emag](https://www.emag.ro/)
+-[Sigmanortec](https://www.sigmanortec.ro/)
