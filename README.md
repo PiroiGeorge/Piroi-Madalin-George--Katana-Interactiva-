@@ -1,4 +1,4 @@
-#Piroi-Madalin-George - Interactive Katana
+# Piroi-Madalin-George - Interactive Katana
 
 Introduction
 
