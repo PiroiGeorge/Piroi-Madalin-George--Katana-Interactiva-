@@ -113,6 +113,9 @@ The interactive katana uses a combination of hardware components to achieve a re
 
    - **Quantity**: 1
 
+5. **Switch Button**
+
+   - **Quantity**: 1
 ---
 
 ### **Block Diagram**
