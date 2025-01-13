@@ -57,7 +57,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 #### **2. LED Control**
 
 - **WS2812B LED Strip**:
-  - **DI (Data Input)** → **D6** pin on Arduino Nano.
+  - **DI (Data Input)** → **D8** pin on Arduino Nano.
 
 #### **3. MPU-6050 (Motion Sensor)**
 
@@ -87,7 +87,7 @@ The interactive katana uses a combination of hardware components to achieve a re
 
 2. **WS2812B LED Strip**
 
-   - **Quantity**: 1 (30 LEDs)
+   - **Quantity**: 1 
 
 3. **MPU-6050 Sensor**
 
@@ -204,6 +204,20 @@ The Interactive Katana project successfully integrates hardware and software to 
 - Enhanced motion algorithms for more precise detection.
 - Additional lighting and sound effects.
 - Integration of advanced features like Bluetooth for remote control or configuration.
+
+---
+
+## **Media**
+
+![P_20250113_212746](https://github.com/user-attachments/assets/80737a1e-3b6e-4a95-8a8d-a1af8922ea95)
+
+![P_20250113_212646](https://github.com/user-attachments/assets/f3b3021d-bd93-4ff0-9566-167657e64a9c)
+
+https://github.com/user-attachments/assets/d051d717-21d6-4d6c-b9b2-af11a9cf88ec
+
+https://github.com/user-attachments/assets/7cfee3e6-ca1d-4a89-aff6-e57aaff1e89a
+
+
 
 ---
 
