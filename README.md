@@ -259,6 +259,6 @@ https://github.com/user-attachments/assets/7cfee3e6-ca1d-4a89-aff6-e57aaff1e89a
 
 ## **Strores**
 
--[ConexElectrionic](https://www.conexelectronic.ro/)
--[Emag](https://www.emag.ro/)
--[Sigmanortec](https://www.sigmanortec.ro/)
+- [ConexElectrionic](https://www.conexelectronic.ro/)
+- [Emag](https://www.emag.ro/)
+- [Sigmanortec](https://www.sigmanortec.ro/)
