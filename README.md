@@ -207,9 +207,9 @@ The Interactive Katana project successfully integrates hardware and software to 
 
 ---
 
-## **GitHub Repository**
+## **Electric  schematics**
 
-- Link to the project: [Interactive Katana GitHub Repository](#)
+
 
 ---
 
@@ -227,5 +227,5 @@ The Interactive Katana project successfully integrates hardware and software to 
 - [Arduino Nano Documentation](https://www.arduino.cc/en/Guide/ArduinoNano)
 - [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 - [MPU-6050 Datasheet](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/)
-- [DY-SV5W MP3 Module Documentation](https://example.com/dy-sv5w-docs)
+- [DY-SV5W MP3 Module Documentation](https://grobotronics.com/images/companies/1/datasheets/DY-SV5W%20Voice%20Playback%20ModuleDatasheet.pdf?1559812879320=&srsltid=AfmBOorhiEmqe2ar5Fkf1KsBC55Jhyxj1rFRRIvpkuhsyZrCOwvQKPrH)
 
